@@ -17,6 +17,8 @@ Approach taken to solve the problem
 Steps Involved:
 
 Data cleaning & preprocessing
-Classification implementation - apply Logistic Regression , Naive Bayes and Lienar SVM model onto the data.
-Apply Topic Modeling.
+Classification implementation 
+- apply Logistic Regression 
+- Naive Bayes and Lienar SVM model onto the data
+- Apply Topic Modeling
 Create a model attaining to the optimum no. of topics
